@@ -1,4 +1,2 @@
 
 This the fourth file.
-
-A comment from repository.
